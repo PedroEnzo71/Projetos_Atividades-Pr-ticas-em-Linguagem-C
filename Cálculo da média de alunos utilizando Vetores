@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+    int main(){
     int i, j;
     float notas[4][4];
     float media;
